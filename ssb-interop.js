@@ -1,5 +1,4 @@
-/usr/lib/slack/app.asar.unpacked/src/static/ssb-interop.js contents (add to bottom)
-
+// /usr/lib/slack/app.asar.unpacked/src/static/ssb-interop.js contents (add to bottom)
 // First make sure the wrapper app is loaded
 document.addEventListener("DOMContentLoaded", function() {
 
